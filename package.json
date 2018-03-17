@@ -1,0 +1,13 @@
+{
+  "name": "@olaakomolafe/usernamegenerator",
+  "version": "1.4.6",
+  "readme": "README.md",
+  "description": "Generate Username for your project without having to worry about the bulkness of the code involved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ola Akomolafe <olamideakomolafe1234@gmail.com>",
+  "license": "MIT"
+}
